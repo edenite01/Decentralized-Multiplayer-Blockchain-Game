@@ -1,4 +1,13 @@
+Introduction
 
+Traditional games which are centralized come with drawbacks such as the in-game assets
+being vulnerable to attacks and in-game assets do not have any value outside the game. We
+can overcome these drawbacks by implementing game using block chain. Users can log
+into their account and play the game. On playing the game user can collect Non-Fungible
+Tokens. These Non-Fungible tokens can be traded for crypto currency. The value of NonFungible tokens is retained even outside the game.
+
+
+Block Diagram
 
 ![flow](https://github.com/edenite01/Decentralized-Multiplayer-Blockchain-Game/assets/122431567/7a916358-0f03-48c5-b040-1f6493b69c51)
 
